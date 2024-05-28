@@ -2,7 +2,7 @@
  * @Author: abin
  * @Date: 2024-05-27 01:51:23
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-05-27 02:49:07
+ * @LastEditTime: 2024-05-28 00:46:21
  * @FilePath: /github/Logger.h
  * @Description: 日志级别 INFO ERROR FATAL DEBUG
  * 
@@ -42,10 +42,11 @@ public:
     void setLogLevel(int level);
     /* 写日志 */
     void log(std::string msg);
+    ~Logger(){}
+
 private:  
     int logLevel_;
-    Logger();
-
+    
 };
 }
 

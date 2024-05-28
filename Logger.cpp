@@ -2,7 +2,7 @@
  * @Author: abin
  * @Date: 2024-05-27 01:51:33
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-05-27 02:50:07
+ * @LastEditTime: 2024-05-28 00:45:10
  * @FilePath: /github/Logger.cpp
  * @Description: 
  * 
@@ -42,5 +42,13 @@ void Logger::log (std::string msg) {
     /* 打印时间和msg */
     std::cout<<"print time "<< " : "<<msg<<std::endl;
 }
+
+Logger::~Logger() {
+
+}
+
+// Logger::Logger() {
+    
+// }
 
 }

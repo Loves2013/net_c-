@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/c++ -fPIC  -g -std=c++11 -shared -Wl,-soname,libnet_c-.so -o libnet_c-.so "CMakeFiles/net_c-.dir/InteAddress.o" "CMakeFiles/net_c-.dir/Logger.o" "CMakeFiles/net_c-.dir/Timestamp.o"
