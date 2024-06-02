@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/Channel.o -c /github/Channel.cpp",
+  "file": "/github/Channel.cpp",
+  "output": "CMakeFiles/net_c-.dir/Channel.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/DefaultPoller.o -c /github/DefaultPoller.cpp",
+  "file": "/github/DefaultPoller.cpp",
+  "output": "CMakeFiles/net_c-.dir/DefaultPoller.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/EPollPoller.o -c /github/EPollPoller.cpp",
+  "file": "/github/EPollPoller.cpp",
+  "output": "CMakeFiles/net_c-.dir/EPollPoller.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/EventLoop.o -c /github/EventLoop.cpp",
+  "file": "/github/EventLoop.cpp",
+  "output": "CMakeFiles/net_c-.dir/EventLoop.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/InteAddress.o -c /github/InteAddress.cpp",
+  "file": "/github/InteAddress.cpp",
+  "output": "CMakeFiles/net_c-.dir/InteAddress.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/Logger.o -c /github/Logger.cpp",
+  "file": "/github/Logger.cpp",
+  "output": "CMakeFiles/net_c-.dir/Logger.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/Poller.o -c /github/Poller.cpp",
+  "file": "/github/Poller.cpp",
+  "output": "CMakeFiles/net_c-.dir/Poller.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/TcpServer.o -c /github/TcpServer.cpp",
+  "file": "/github/TcpServer.cpp",
+  "output": "CMakeFiles/net_c-.dir/TcpServer.o"
+},
+{
+  "directory": "/github/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++ -Dnet_c__EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/net_c-.dir/Timestamp.o -c /github/Timestamp.cpp",
+  "file": "/github/Timestamp.cpp",
+  "output": "CMakeFiles/net_c-.dir/Timestamp.o"
+}
+]
